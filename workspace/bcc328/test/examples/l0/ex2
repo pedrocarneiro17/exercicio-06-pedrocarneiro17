@@ -1,0 +1,7 @@
+def x := 1 in
+	print(x);
+	def x := 2 in
+		print(x);
+	end	
+	print(x);
+end
